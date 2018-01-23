@@ -13,10 +13,6 @@
         <State name="__root__">
           <Node name="titanDB" expanded="True">
             <Node name="titanDB" expanded="True" selected="True">
-              <Node name="References" expanded="True" />
-              <Node name="db" expanded="True">
-                <Node name="core" expanded="True" />
-              </Node>
               <Node name="Properties" expanded="True" />
             </Node>
           </Node>
@@ -24,7 +20,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
