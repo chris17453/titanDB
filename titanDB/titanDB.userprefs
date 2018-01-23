@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="db/mssql.cs">
+    <Files>
+      <File FileName="db/core/crud.cs" Line="15" Column="1" />
+      <File FileName="db/core/non_query.cs" Line="15" Column="1" />
+      <File FileName="db/core/query.cs" Line="15" Column="1" />
+      <File FileName="db/core/querySP.cs" Line="15" Column="1" />
+      <File FileName="db/core/scalar.cs" Line="15" Column="1" />
+      <File FileName="db/mssql.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="titanDB" expanded="True">
+            <Node name="titanDB" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+              <Node name="db" expanded="True">
+                <Node name="core" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
